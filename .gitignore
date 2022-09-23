@@ -1,0 +1,11 @@
+*.png
+*.txt
+*.out
+*.err
+*.DS_Store
+*.pyc
+*.npy
+*.jpeg
+*.pth
+*.sav
+*.zip
